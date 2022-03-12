@@ -4,15 +4,12 @@
 \alias{plot.pdsi}
 \title{plot (sc)PDSI}
 \usage{
-\method{plot}{pdsi}(x, tit = NULL, index = "PDSI", ...)
+\method{plot}{pdsi}(x, tit = NULL, ...)
 }
 \arguments{
 \item{x}{an object of class \code{pdsi}.}
 
 \item{tit}{title of the plot.}
-
-\item{index}{determines PDSI, PHDI (Palmer hydrological drought index)
-or WPLM (weighted PDSI) to be plotted. Default "PDSI".}
 
 \item{...}{additional parameters, not used at present.}
 }

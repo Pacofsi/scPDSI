@@ -1,7 +1,3 @@
-# scPDSI 0.1.3
-
-* Main function `pdsi()` now can output Palmer hydrological drought index (PHDI) and weighted PDSI (WPLM).
-
 # scPDSI 0.1.2
 
 * Fix the compiling error in solaris platform.
